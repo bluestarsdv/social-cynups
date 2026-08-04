@@ -76,7 +76,7 @@ android {
     defaultConfig {
         minSdk = 26
         targetSdk = 36
-        applicationId "co.median.android.mbaamne"
+        applicationId "com.cynups"
         versionCode 10
         vectorDrawables.useSupportLibrary = true
 
